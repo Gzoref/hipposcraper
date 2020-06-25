@@ -3,6 +3,8 @@
 
 ### [STATUS] This repo is no longer maintained by [Derrick Gee](https://github.com/kai-dg) and [Brennan D Baraban](https://github.com/bdbaraban) starting 6/22/2019, please ask around or on the Holberton Slack to find someone who is maintaining a fork of this repo if you are looking for an updated version of this scraper.
 
+### [UPDATE] Runs using Python3. Uses MechanicalSoup to sign in to account instead of Mechanize.
+
 <p align="center">
   <img src="http://www.holbertonschool.com/holberton-logo.png">
 </p>
